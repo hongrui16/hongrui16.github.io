@@ -1,14 +1,7 @@
 name: Prettier code formatter
 
 on:
-  pull_request:
-    branches:
-      - master
-      - main
-  push:
-    branches:
-      - master
-      - main
+  workflow_dispatch:  # 只允许手动触发，不自动跑
 
 jobs:
   check:
