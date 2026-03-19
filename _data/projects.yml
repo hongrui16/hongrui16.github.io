@@ -1,3 +1,7 @@
 - title: StockLens
   url: https://github.com/hongrui16/StockLens
-  description: A personal side project for stock analysis, supporting both A-share and US markets, powered by DeepSeek and GPT-4o-mini.
+  description: >
+    A Flask-based stock analysis tool supporting both A-share (Chinese) and US markets.
+    Features AI-powered analysis using DeepSeek and GPT-4o-mini, a watchlist system for
+    tracking favorite stocks, and dedicated AI functions optimized for token efficiency.
+    Built as a personal side project driven by interest in financial markets.
